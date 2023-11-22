@@ -1,11 +1,6 @@
 ### Hi there 👋
 > Digital Forensics and Incident Response
 
-- https://www.linkedin.com/posts/meisameslahi_youtube-cybersecurity-threathunting-activity-7113422873146359808-CHjj?utm_source=share&utm_medium=member_ios
-- Redteam Technique:
-  - https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/exploring-process-environment-block
-  - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking
-  - https://redcanary.com/threat-detection-report/techniques/modify-registry/
 <!--
 **Nigmao/Nigmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
