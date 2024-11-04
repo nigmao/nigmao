@@ -444,8 +444,6 @@ for i, byte in enumerate(data):
 print(f"The {len(data)} byte written into memory.")
 ```
 
-![alt text](./images/image-6.png)
-
 > flag
 
 ## [3]. References
